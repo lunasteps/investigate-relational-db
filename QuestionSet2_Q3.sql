@@ -12,8 +12,6 @@ This query generates a Pivot table and therefore I assume that:
 
 tablefunc has been enabled in the database to create pivot table
 
-as no human can read this I created it anyway d'oh
-lalalalalalalala
 *****************************************************************
 */
 /*It never hurts to ensure temp tables do not exist*/
